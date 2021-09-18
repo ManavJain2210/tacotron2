@@ -1,0 +1,78 @@
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/200.wav|vhin sketing karte bchechon ka  v akarshak veshbhusha men chl rhe rajendr tivari  dukan ji  sbko akarshait kar rhe the 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/5245.wav|sath hi ismen kisi trh ki rsayn khad ka upyog nhin kiya ja rha ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/2377.wav|parti ke sthapna divs smaroh men yh swal utha bhi lekin ise jyada tul nhin dia gya 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/5789.wav|unhonne kha ha ki iske jiammedar logon ke khilaf tvrit karrvai hogi 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7616.wav|kshaetr men tnaw ko dekhte hua prshasn ne pulis bl tanat kar dia ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/2809.wav|prmukh schiv krishi krishi shikshaa avn krishi anusndhan vibhag jean chaambr ko sdsy nyayik rajswa prishd pd pr ilahabad bhej dia gya ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6309.wav|chin ke  nekles  ka jwab dene ke lia ahm hua shreelnka
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/2237.wav|pulis  prijnon ko kmre se  pr likhit ak susaid not v ak pan bramd hua 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7160.wav|der sham halat gnbhir hone ke karan unko ams bhej dia gya 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7748.wav|ab kendr ki gthit kmeti ne ise bil ka msauda tayar karke saf kar dia ha ki gnga ko gnda karna bhut mhnga prega 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1759.wav|unhonne kejriwal pr nkaraatmk rajniti karne ka arop lgaya ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/9847.wav|pune ke logon ne use goldman ki upadhi de di ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6120.wav|sanbhawna ha ki yh ktauti kl der rat se lagu bhi ho jaa 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7641.wav|ram mndir mudde men supreem kort ki or se mdhysthta ki phl ka kendr srkar ki or se swaagt kiya gya ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6607.wav|kevl kochin stet ke simvrti ilakon ke  logon ka dharm privrtn abhi nhin karaya ja ska ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/8274.wav|man  dikhta hun vjn bhi  gya ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/8287.wav|videsh men  se vikend ke lia logo ki fevret jgh dubi singapur hangkang mkao  thailand ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1463.wav|yhan suvidhaon ke nam pr mhj ak handpnp ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/9444.wav|iske sath hi vivadaspd dkshaian chin sagr men tel ki khoj ke lia apne sanyukt yojna ko bhi jari rkhe hua ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/819.wav|amtaur pr piasyu in dishanirdeshon ka paln nhin karte 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6268.wav|mauke pr phunchi pulis ne dhmkane wale ak yuvk ko girftar kiya ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1707.wav|lekin prdeep ki barat subh ki bjay der sham vivah sthl pr phunchi jis pr vdhu pksha ke log kafi naraj ho ga 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/4310.wav|goyl akhil bhartiy vidyarthi prishd se scriy rup se  rhe 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/5912.wav|kmpyutr avn smart fon pr jivn prmann khoya  paya i  bsta i   adi aps bhi viksit kiye ga han 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/556.wav|vakya nalnda jile ke ben thana antergt  at ganv ka ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1538.wav|pathshala ne do vrsha pure kar lia han 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/429.wav|unka yh kra sandesh un sngthnon ke lia bhi ha jo  dinon muthbher men mare ga burhan vani ko hiro bnane pr tule hua han 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7341.wav|vhan se bshir vrsha do hzar men pakistan men atnkwad ki trening ke lia gya 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7394.wav| grahkon ne swayn hi bankon ke drwaje pr dstk di ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/3494.wav|yh bhi   bhart ab duniya bhr ko dikhaaga vnyjivon ko bchane ki rah
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/4349.wav|unhonne tibbt pr  kar di  use  lia 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1887.wav|is jmin ki mang metro karporeshn ne transport ngr metro steshn ke lia prvesh  nikas sanrchna bnane ke lia mangi thi 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/2861.wav|jile ke adivasi bhul kshaetr lalunga men  mhine ak pndrah vrsha ki kishori ke sath samuhik dushkarm kiya gya tha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/521.wav|is kshaetr men logon ko mul adhikaron  abhivykti ki ajadi se vnchit rkha gya ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/3591.wav|tim isse do hzar  se sanprk men rhne wale logon ke bare men jankari juta rhi ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1785.wav|ase men swal yh ha ki maicro atiam kis trh se logon ki dikkton ko km karega 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/2372.wav|kerl men vipksha ke neta kodiyeri balkshnan akmatr ase neta rhe jinhonne kerl men kangres ki aguvai wali yudiaf srkar ko nishana bnaya 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/3474.wav|iske bad upsbhapti pi je kuriyn ne sdn ki phle sdn ki karyawahi pndrah mint ke lia sthgit kar di 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/8423.wav|ak  rahul gandhi ko adhyksha pd ke lia nwasi namankn prstav  elan gyarh ko
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1314.wav|unhone btaya ki mritkon ke antim sanskar men parti ki trf se sthaniy vidhayk  sansd maujud rhenge 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/751.wav|deteisi ne mhilaon ko bs chlane ke lia tin sal ka anubhv hone se bhi  di ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1405.wav|vhin akhil bhartiy vidyarthi prishd  abivipi  aj jwahr lal nehru yunivrsti men bhart virodhi gtividhion ke virodh men ak bri rali nikalega 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/2917.wav|videsh mntree slman khurshid budhwar ko do divsiy irak yatra pr rwana ho ga 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1223.wav|videshi netaon ki yatra ka mksd  unke swaagt ka trika bhinn hota ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6345.wav|ni polisi ke mutabik bhojn ki suchi bnakar usi ke hisab se dam tikt men  dia jaange 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/9215.wav|prdhanmntree nrendr modi ne afganistan men atnkwadi hmlon ki  se ninda ki ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7162.wav|drgen bhr se adhik logon ke byan drge kia ga han 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/8530.wav|halanki do hzar pndrah men pakistan ne gdhon ki khal ke niryaat pr asthayi prtibndh lga dia tha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/8395.wav|bal thakare ka nvnbr do hzar barh men nidhn ho gya tha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7569.wav|unhonne jrurt prne pr  mdd ka bhrosa dia 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1182.wav|lekin ak purv nyayadhish ki upsthiti men karaya gya mok dril sfl nhin ho paya 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/3347.wav|inmen sttais ko htya ke lia doshi thhraya gya 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/9775.wav|vrtman men wayusena ke pas is trh ke ak sau panch viman ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6777.wav|donon bdmashon ke kabje se chori ki ds bachae v sttais elidi tivi bramd kia ga ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/9216.wav|mausm ke bdlte patrn ko vhan se shaskon ne  
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/5350.wav|rajnitik uthaptk bdlaw andoln styagrh jacsi ptktha pr filmen bn rhi han 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/8689.wav| siti sivil kot prisr  men hui do march ki hinsa ke mddenjr vkil  midia  pulis ke bich sanghrsha guruwar ko tej ho gya 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/8684.wav|relve yatrion ke lia yatra anubhv ko behtr bnane pr dhyan de rha ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6780.wav|mid de ki khbr ke mutabik rjistreshn ki akhiri tarikh teis agst ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/5262.wav|ve vebsaiton pr aias ke bare men jankari hasil karte dekhe ga han 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/3218.wav|japani prdhanmntree shinjo abi ke  sal sitnbr men bhart daure ke bad donon deshon ke bich sanbndh ko  mjbuti mili ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/3087.wav|raju ne btaya ki autdor gem ki jgh use mobail pr khelna jyada  lgta tha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/8957.wav|yh bhi   ams men srgeri ke bad dayin kidni gayb
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6750.wav|sath hi unhonne parti karyakartaon ko chetaya ki lok sbha  vidhan sbha chunawon men ve   mal  sabit n hon 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6188.wav|mayavti ne apne smrthkon ko chetate hua kha ki agr bhajpa is bar a gi to apne mnsube ko pura karke rhegi 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7365.wav|puri trh barish ka pani andr prvesh kar jata ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/279.wav|unnisau ninyanbe se lekar ab tk ve ki filmon men kam kar chuke han 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/8472.wav|sutron ke mutabik bihar men bawn uttr prdesh men pndrah  pschim bngal men  log mare ga han 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/450.wav|lekin surkshaablon ne pure ilake men gherabndi kar atnkion ko jinda athwa murda pkrne ki tlashi abhian jari rkha hua ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/9862.wav|prdesh ke purvi kshaetr men    kul milakar ak lakh tis hzar do sau atharh chaeaiya han jinmen nau sau chaekis point do char  ka nivesh ha  panch lakh athhttr hzar tin sau assi logon ko rojgar 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1396.wav|  tl skti ha sivil sewa prarnbhik prikshaa
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/5973.wav|ghtona men mare ga v ghayl karmchari dusri shift men kam kar rhe the 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/2323.wav|  helth keyr at hom  nam ki is knpni ne unke ghr pr hi aisiyu ka setap lga dia 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/2123.wav|unhonne kha ki iske   vjh yh ha ki adhikansh seteen jhan alpsankhyk smuday bhusankhyk ha anusuchit jation ke lia arkshait han 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/9118.wav| not  lekhk sentr for polisi risrch ni dilli men siniyr felo han  
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/5480.wav|juhi ko bhart  nepal sima se girftar kiya gya ha 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/562.wav|nagrik uddyn mntree  rashtriy lokdl  ralod  mukhia ajit singh ne rvivar ko nrendr modi pr jmkar hmla bola 
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/9403.wav| lgta ha ki is vishy pr ase kisi vykti se slah leni chahia thi jo maudrik niti ke vishy men janta ho 
