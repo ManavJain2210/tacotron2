@@ -6297,7 +6297,6 @@
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/4070.wav|unhonne btaya ki jb pyar kiya to kya gun kya dharm 
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/4808.wav|jagran sanwaddata ni dilli  rajdhani men plesment ajension dwara manv tskari ka ak  mamla samne aya ha 
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/1820.wav|rali ko rajput smaj ke vibhinn sngthnon ne smrthn dia 
-/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/4777.wav|sangh ne fir kha ki nyucliyr privar ke bjay sanyukt privar vyvstha pr bat ho 
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/5161.wav|mukhymntree prkash sih badl sangh ke ishare pr shree akal tkht sahib ke jatthedaron ko apni mrjee se chla rhe han 
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/421.wav|turnament ke fainl mach ko lekar abhi sthan nischit nhin kiya gya ha 
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/4201.wav|jinhen lgta ha ki yh unke lia labhdayk ha to ve iske sath shanti sthapit kar skte han 
