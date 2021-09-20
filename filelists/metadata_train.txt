@@ -8831,7 +8831,7 @@
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7990.wav|is vjh se relve ko tin hjar karor rupye ka nuksan bhi uthana pra ha 
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/7816.wav|ktr ke vikas men bhi bhartiyon ki ahm bhumika ha 
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/3014.wav|udhr sngthn ne rvivar ko ak byan men ngaland men hone wale vidhansbha chunaw ka bhishkar karne ka fasla lia ha 
-t/drive/MyDrive/Data/wav/6425.wav|modi ke abhian se jura ak  sitara
+/kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/6425.wav|modi ke abhian se jura ak  sitara
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/9157.wav|jwanon ki dyuti taim men bdlaw kiya jaaga 
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/2729.wav|gdkari ne vhan sangh prmukh mohan bhagvt smet any shirsha pdadhikarion se chrcha ki 
 /kaggle/input/hindi-data-tts/content/drive/MyDrive/Data/wav/964.wav|ap sbhi ki dua  bhgvan ki kripa se hm jinda han 
