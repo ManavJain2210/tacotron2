@@ -1,15 +1,15 @@
-# Tacotron 2 (without wavenet)
+# Tacotron 2 Hindi (without wavenet)
 
+For Synthesis 
+[![Open In Colab]https://colab.research.google.com/drive/1CJuLkIIuR1Mpbj8rkoin1vxz3OJO55Xr?usp=sharing]
 PyTorch implementation of [Natural TTS Synthesis By Conditioning
 Wavenet On Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf). 
 
 This implementation includes **distributed** and **automatic mixed precision** support
-and uses the [LJSpeech dataset](https://keithito.com/LJ-Speech-Dataset/).
-
+and uses the [LJSpeech dataset](https://keithito.com/LJ-Speech-Dataset/) and 
+[IIIT Hyderebad Speech Corpous](http://cvit.iiit.ac.in/research/projects/cvit-projects/text-to-speech-dataset-for-indian-languages) and
 Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and [AMP].
 
-Visit our [website] for audio samples using our published [Tacotron 2] and
-[WaveGlow] models.
 
 ![Alignment, Predicted Mel Spectrogram, Target Mel Spectrogram](tensorboard.png)
 
@@ -29,28 +29,16 @@ Visit our [website] for audio samples using our published [Tacotron 2] and
 8. Install python requirements or build docker image 
     - Install python requirements: `pip install -r requirements.txt`
 
-## Training
-1. `python train.py --output_directory=outdir --log_directory=logdir`
-2. (OPTIONAL) `tensorboard --logdir=outdir/logdir`
-
 ## Training using a pre-trained model
 Training using a pre-trained model can lead to faster convergence  
 By default, the dataset dependent text embedding layers are [ignored]
 
 1. Download our published [Tacotron 2] model
-2. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt --warm_start`
+2. Transliterate Hindi text into English using [polyglot](https://polyglot.readthedocs.io/en/latest/Transliteration.html)
+3. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt --warm_start`
 
 ## Multi-GPU (distributed) and Automatic Mixed Precision Training
 1. `python -m multiproc train.py --output_directory=outdir --log_directory=logdir --hparams=distributed_run=True,fp16_run=True`
-
-## Inference demo
-1. Download our published [Tacotron 2] model
-2. Download our published [WaveGlow] model
-3. `jupyter notebook --ip=127.0.0.1 --port=31337`
-4. Load inference.ipynb 
-
-N.b.  When performing Mel-Spectrogram to Audio synthesis, make sure Tacotron 2
-and the Mel decoder were trained on the same mel-spectrogram representation. 
 
 
 ## Related repos
