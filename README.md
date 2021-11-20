@@ -2,6 +2,7 @@
 
 For Synthesis 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CJuLkIIuR1Mpbj8rkoin1vxz3OJO55Xr?usp=sharing)
+
 PyTorch implementation of [Natural TTS Synthesis By Conditioning
 Wavenet On Mel Spectrogram Predictions](https://arxiv.org/pdf/1712.05884.pdf). 
 
